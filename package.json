@@ -33,6 +33,7 @@
   "dependencies": {
     "colyseus.js": "^0.15.17",
     "debounce": "^2.0.0",
+    "svelte": "^5.38.6",
     "svelte-material-icons": "^3.0.5"
   }
 }
